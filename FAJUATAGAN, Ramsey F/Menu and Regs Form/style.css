@@ -1,0 +1,39 @@
+.Background{
+  background-image: url("img/burger.png");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.menu {
+  width: 40%;
+  background-color:chocolate;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+h1, h2, p, li, footer {
+  text-align: center;
+}
+
+.established {
+  font-style: italic;
+}
+
+.item p {
+  display:inline-block;
+  margin: 5px 0;
+  font-size: 18px;
+  
+  
+}
+
+.flavor {
+  width: 85%;
+  text-align: left;
+}
+
+
+
+
